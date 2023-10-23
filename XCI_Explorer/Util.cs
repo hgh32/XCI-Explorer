@@ -53,19 +53,19 @@ namespace XCI_Explorer
                 case 10:
                     return "MasterKey9 (9.0.0-9.0.1)";
                 case 11:
-                    return "MasterKey10 (9.1.0-9.2.0)";
+                    return "MasterKey10 (9.1.0-12.0.3)";
                 case 12:
-                    return "MasterKey11 (?)";
+                    return "MasterKey11 (12.1.0)";
                 case 13:
-                    return "MasterKey12 (?)";
+                    return "MasterKey12 (13.0.0-13.2.1)";
                 case 14:
-                    return "MasterKey13 (?)";
+                    return "MasterKey13 (14.0.0-14.1.2)";
                 case 15:
-                    return "MasterKey14 (?)";
+                    return "MasterKey14 (15.0.0-15.0.1)";
                 case 16:
-                    return "MasterKey15 (?)";
+                    return "MasterKey15 (16.0.0-16.1.0)";
                 case 17:
-                    return "MasterKey16 (?)";
+                    return "MasterKey16 (17.0.0-?)";
                 case 18:
                     return "MasterKey17 (?)";
                 case 19:
